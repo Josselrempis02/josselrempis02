@@ -3,7 +3,7 @@
 I’m a passionate web developer specializing in creating dynamic and responsive websites. Currently, I’m working on building modern web applications using technologies like Laravel, Vue.js, and Bootstrap. My projects focus on crafting seamless user experiences and implementing robust backend solutions.
 
 🌱 I’m currently learning:
-I am currently a student at Eulogio "Amang" Rodriguez Institute of Science and Technology, where I am passionately pursuing knowledge in technology and software development. I am exploring frameworks such as Laravel, Vue.js, and Node.js, which I believe are essential tools for building modern and efficient web applications. At the same time, I’m diving deeper into advanced JavaScript concepts and the latest trends in UI/UX design. Every day is an opportunity to grow and bring fresh ideas to life!<br><br>
+I am currently a student at Eulogio "Amang" Rodriguez Institute of Science and Technology, where I am passionately pursuing knowledge in technology and software development. I am exploring frameworks such as Laravel, React.js, and Node.js, which I believe are essential tools for building modern and efficient web applications. At the same time, I’m diving deeper into advanced JavaScript concepts and the latest trends in UI/UX design. Every day is an opportunity to grow and bring fresh ideas to life!<br><br>
 
 
 ## 🌐 Socials:
